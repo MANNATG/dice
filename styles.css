@@ -1,0 +1,77 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+.btn {
+  background: #4ECCA3;
+  background-image: -webkit-linear-gradient(top, #4ECCA3, #4ECCA3);
+  background-image: -moz-linear-gradient(top, #4ECCA3, #4ECCA3);
+  background-image: -ms-linear-gradient(top, #4ECCA3, #4ECCA3);
+  background-image: -o-linear-gradient(top, #4ECCA3, #4ECCA3);
+  background-image: linear-gradient(to bottom, #4ECCA3, #4ECCA3);
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Georgia;
+  color: #1d5669;
+  font-size: 33px;
+  padding: 10px 15px 10px 15px;
+  border: solid #1f8c7d 2px;
+  text-decoration: none;
+  width:20%;
+  margin-top: 20px;
+  margin-bottom:20px;
+  margin-left:100px;
+}
+
+h3{
+  font-size: 20px;
+}
+
+.btn:hover {
+  background: #39434a;
+  background-image: -webkit-linear-gradient(top, #39434a, #3cfa9b);
+  background-image: -moz-linear-gradient(top, #39434a, #3cfa9b);
+  background-image: -ms-linear-gradient(top, #39434a, #3cfa9b);
+  background-image: -o-linear-gradient(top, #39434a, #3cfa9b);
+  background-image: linear-gradient(to bottom, #39434a, #3cfa9b);
+  text-decoration: none;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
